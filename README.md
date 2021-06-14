@@ -11,7 +11,9 @@ Updates in V4:
 - Rewrote TimerLongJump, now flags less. 
 - Changed the Scaffold to be slower but less flagging/breaking. 
 # Usage
-Put scripts in your scripts folder located inside your Liquid Bounce/Liquid Drip installation. 
+Configurations and scripts are located in different branches. 
+
+Put scripts in your scripts folder located inside your Liquid Bounce/Liquid Drip installation.  
 
 For Liquid Bounce, you will need to go through ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\scripts`` for scripts and ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\settings`` for configurations. 
 
