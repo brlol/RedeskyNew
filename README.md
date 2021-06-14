@@ -22,7 +22,9 @@ For custom builds of Liquid Bounce, you will need to go through ``C:\Users\apple
 **Example:** 
 https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Disclaimer
-I'm not responsible if you get punished or encounter any issues using this configuration.
+I'm not responsible if you get punished or encounter any issues using this configuration. 
+
+Not all these scripts are mine. 
 
 Note: These configurations are made for after the AC update. 
 
