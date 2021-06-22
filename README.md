@@ -21,11 +21,9 @@ For Liquid Bounce, you will need to go through ``C:\Users\User\AppData\Roaming\.
 
 For custom builds of Liquid Bounce, you will need to go through ``C:\Users\\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders.  
 # Disclaimer
-I'm not responsible if you get punished or encounter any issues using this configuration. 
-
-Not all these scripts are mine. 
-
-Note: These configurations are made for after the AC update. 
-
-The only server you should use these on is ``redesky.com``.
+- I'm not responsible if you get punished or encounter any issues using this configuration.  
+- Not all these scripts are mine. 
+- These configurations are made for after the AC update. 
+- The only server you should use these on is ``redesky.com``.
+- Configurations might not work if you use normal Liquid Bounce or Lint because they were made in Liquid Drip. 
 
