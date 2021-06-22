@@ -1,5 +1,5 @@
 # Configurations
-Configurations for Liquid Drip/Liquid Bounce and scripts. Fully updated and bypassing. 
+Configurations and scripts for Liquid Drip, Liquid Bounce, and Lint. Fully updated and bypassing. 
 
 All configurations are made by me and nobody else. Free to use. 
 # Usage
@@ -9,6 +9,6 @@ All configurations are made by me and nobody else. Free to use.
 - Bind ChestStealer, InventoryCleaner, StorageESP, and AutoArmor to one key. 
 - Use any visuals you want.
 - FastUse works only if you stay still. 
-- Velocity isn't great but works best if you stay still.
+- You can use Velocity. 
 - You can toggle NoFall during the LongJump, and toggle off after. 
 
