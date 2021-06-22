@@ -10,6 +10,7 @@ Updates in V5:
 - Chams
 - Improved Aura
 - Scaffold flags less (make sure you hold the block when scaffolding) 
+- TargetHUD (it's garbage but I might make a custom script for it)
 
 **Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Usage
@@ -26,4 +27,8 @@ For custom builds of Liquid Bounce, you will need to go through ``C:\Users\\User
 - These configurations are made for after the AC update. 
 - The only server you should use these on is ``redesky.com``.
 - Configurations might not work if you use normal Liquid Bounce or Lint because they were made in Liquid Drip. 
+# Downloads
+Liquid Drip download: https://www.mediafire.com/file/4f6pt31rmuso6yj/Liquiddrip_10013.jar/file
+Lint download: https://www.mediafire.com/file/fj44or4pmdqjvnf/LiquidBounce-b73.jar/file
+
 
