@@ -29,6 +29,7 @@ For custom builds of Liquid Bounce, you will need to go through ``C:\Users\\User
 - Configurations might not work if you use normal Liquid Bounce or Lint because they were made in Liquid Drip. 
 # Downloads
 Liquid Drip download: https://www.mediafire.com/file/4f6pt31rmuso6yj/Liquiddrip_10013.jar/file
+
 Lint download: https://www.mediafire.com/file/fj44or4pmdqjvnf/LiquidBounce-b73.jar/file
 
 
