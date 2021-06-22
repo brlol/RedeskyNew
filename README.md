@@ -17,7 +17,7 @@ Put scripts in your scripts folder located inside your Liquid Bounce/Liquid Drip
 
 For Liquid Bounce, you will need to go through ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\scripts`` for scripts and ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\settings`` for configurations. 
 
-For custom builds of Liquid Bounce, you will need to go through ``C:\Users\apple\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders. 
+For custom builds of Liquid Bounce, you will need to go through ``C:\Users\\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders. 
 
 **Example:** 
 https://www.youtube.com/watch?v=LCZTUI4X_dc
