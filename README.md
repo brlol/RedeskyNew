@@ -2,14 +2,14 @@
 Configurations and scripts for custom builds or Liquid Bounce. Fully updated and bypassing. 
 
 .js files are scripts. Other files are configurations. 
-# Current Version: RedeskyNewV4
-Got a better velocity, will update probably today. 
+# Current Version: RedeskyNewV5
+Released!
 # Changelog
-Updates in V4: 
-- Added a working NoFall (will lag you back if you have flagged)
-- Added a FastEat for winning HVHs. 
-- Rewrote TimerLongJump, now flags less. 
-- Changed the Scaffold to be slower but less flagging/breaking. 
+Updates in V5: 
+- New velocity (not 0% but usually doesn't flag)
+- Chams
+- Improved Aura
+- Scaffold flags less (make sure you hold the block when scaffolding) 
 # Usage
 Configurations and scripts are located in different branches. 
 
