@@ -3,7 +3,7 @@ Configurations and scripts for custom builds or Liquid Bounce. Fully updated and
 
 .js files are scripts. Other files are configurations. 
 # Current Version: RedeskyNewV4
-Working on RedeskyNewV5 right now. Configurations will get updated every week or sooner. 
+Got a better velocity, will update probably today. 
 # Changelog
 Updates in V4: 
 - Added a working NoFall (will lag you back if you have flagged)
