@@ -10,6 +10,8 @@ Updates in V5:
 - Chams
 - Improved Aura
 - Scaffold flags less (make sure you hold the block when scaffolding) 
+
+**Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Usage
 Configurations and scripts are located in different branches. 
 
