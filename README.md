@@ -11,6 +11,7 @@ Updates in V5:
 - Improved Aura
 - Scaffold flags less (make sure you hold the block when scaffolding) 
 - TargetHUD (it's garbage but I might make a custom script for it)
+- LongJump is reusable now (because of not flagging velocity)
 
 **Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Usage
