@@ -11,7 +11,7 @@ Updates in V5:
 - Improved Aura
 - Scaffold flags less (make sure you hold the block when scaffolding) 
 - TargetHUD (it's garbage but I might make a custom script for it)
-- LongJump is reusable now (because of not flagging velocity, still has a 20 second cooldown and if you flag you can't use it)
+- LongJump is reusable now (because of not flagging velocity, still has a 30-40 second cooldown and if you flag you can't use it)
 
 **Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Usage
