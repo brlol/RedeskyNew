@@ -3,15 +3,13 @@ Configurations and scripts for custom builds or Liquid Bounce. Fully updated and
 
 .js files are scripts. Other files are configurations. 
 # Current Version: RedeskyNewV5
-RedeskyNewV6 tommorow maybe
+RedeskyNewV6 release!
 # Changelog
-Updates in V5: 
-- New velocity (not 0% but usually doesn't flag)
-- Chams
-- Improved Aura
-- Scaffold flags less (make sure you hold the block when scaffolding) 
-- TargetHUD (it's garbage but I might make a custom script for it)
-- LongJump is reusable now (because of not flagging velocity, still has a 30-40 second cooldown and if you flag you can't use it)
+Updates in V6: 
+- Better and improved velocity
+- Better Killaura (without the AAC strafe and doesn't flag)
+- Fixed scaffold speeding up when going close to players
+- Turned off targetHUD because it was bad and it glitched the real HUD. 
 
 **Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
 # Usage
