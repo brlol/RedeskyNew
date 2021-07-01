@@ -6,4 +6,4 @@ Not all of the scripts are made by me. Thank you for letting me use the scripts.
 Discord br#6969. 
 
 # Updates
-Added redeskyautologin script (made by me and based off of a script by cancer)
+Added RedeFastFly script, and RedeConfigManager script.
