@@ -20,6 +20,10 @@ Put scripts in your scripts folder located inside your Liquid Bounce/Liquid Drip
 For Liquid Bounce, you will need to go through ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\scripts`` for scripts and ``C:\Users\User\AppData\Roaming\.LiquidLauncher\gameDir\LiquidBounce-1.8\settings`` for configurations. 
 
 For custom builds of Liquid Bounce, you will need to go through ``C:\Users\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders.  
+
+**Optional Installation:**
+
+Go to https://github.com/br-22448/RedeskyNew/tree/Scripts and download the RedeConfigLoader script. Then, put it inside your scripts folder and in game, enable the module and select which mode you want. Then you can enable modules yourself and bind keys yourself. 
 # Disclaimer
 - I'm not responsible if you get punished or encounter any issues using this configuration.  
 - Not all these scripts are mine. 
