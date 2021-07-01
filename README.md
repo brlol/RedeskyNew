@@ -2,16 +2,16 @@
 Configurations and scripts for custom builds or Liquid Bounce. Fully updated and bypassing. 
 
 .js files are scripts. Other files are configurations. 
-# Current Version: RedeskyNewV5
-RedeskyNewV6 release!
+# Current Version: RedeskyNewV7
+RedeskyNewV7 release!
 # Changelog
-Updates in V6: 
-- Better and improved velocity
-- Better Killaura (without the AAC strafe and doesn't flag)
-- Fixed scaffold speeding up when going close to players
-- Turned off targetHUD because it was bad and it glitched the real HUD. 
+Updates in V7: 
+- New long jump (made by a xd oof tysm), reusable and OP.  
 
-**Example:** https://www.youtube.com/watch?v=LCZTUI4X_dc
+**Example:** 
+https://www.youtube.com/watch?v=LCZTUI4X_dc
+
+https://www.youtube.com/watch?v=g9Vq81bIiAA
 # Usage
 Configurations and scripts are located in different branches. 
 
