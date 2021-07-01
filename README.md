@@ -11,4 +11,4 @@ All configurations are made by me and nobody else. Free to use.
 - FastUse works only if you stay still. 
 - You can use Velocity. 
 - You can toggle NoFall during the LongJump, and toggle off after. 
-- Bind RedeFastFly, Blink, and RedeFly to a key. 
+- Bind RedeFastFly, Blink, and RedeFly to a key. (Toggle off after 100ms or you'll flag.)
