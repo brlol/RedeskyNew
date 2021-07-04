@@ -2,11 +2,16 @@
 Configurations and scripts for custom builds or Liquid Bounce. Fully updated and bypassing. 
 
 .js files are scripts. Other files are configurations. 
-# Current Version: RedeskyNewV7
-RedeskyNewV7 release!
+# Current Version: RedeskyNewV8
+RedeskyNewV8 release!
 # Changelog
-Updates in V7: 
-- New long jump (made by a xd oof tysm), reusable and OP. Disable after 100ms.
+Updates in V8: 
+- Disabled FastEat because of it flagging, if you prefer using it you can turn it back on.
+- Changed InventoryCleaner to now throw items out without opening your inventory and change the locations of items.
+- Changed Fly to be compatible with slime blocks. 
+- Added AutoTool
+- ChestStealer delay is now 0. 
+- Added a RedeManager to automatically load my configuration.
 
 **Example:** 
 https://www.youtube.com/watch?v=LCZTUI4X_dc
