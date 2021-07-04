@@ -6,7 +6,7 @@ Configurations and scripts for custom builds or Liquid Bounce. Fully updated and
 RedeskyNewV7 release!
 # Changelog
 Updates in V7: 
-- New long jump (made by a xd oof tysm), reusable and OP.  
+- New long jump (made by a xd oof tysm), reusable and OP. Disable after 100ms.
 
 **Example:** 
 https://www.youtube.com/watch?v=LCZTUI4X_dc
