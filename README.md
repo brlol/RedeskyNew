@@ -24,9 +24,13 @@ For Liquid Bounce, you will need to go through ``C:\Users\User\AppData\Roaming\.
 
 For custom builds of Liquid Bounce, you will need to go through ``C:\Users\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders.  
 
-**Optional Installation:**
+**Optional Installation 1:**
 
 Go to https://github.com/br-22448/RedeskyNew/tree/Scripts and download the RedeConfigLoader script. Then, put it inside your scripts folder and in game, enable the module and select which mode you want. Then you can enable modules yourself and bind keys yourself. 
+
+**Fast Installation:**
+
+Type ``.config load https://raw.githubusercontent.com/br-22448/RedeskyNew/Configs/redeskynewv9`` for fast installation. 
 # Disclaimer
 - I'm not responsible if you get punished or encounter any issues using this configuration.  
 - Not all these scripts are mine. 
