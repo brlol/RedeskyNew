@@ -5,7 +5,7 @@ Configurations and scripts for custom builds or Liquid Bounce. Fully updated and
 # Current Version: RedeskyNewV9
 RedeskyNewV9 release!
 # Changelog
-Updates in V8: 
+Updates in V9: 
 - Changed Scaffold from timer to sprint. (Will lagback if you have already flagged)
 - Added NoFall (will flag more than before)
 - Added NameProtect 
@@ -31,6 +31,7 @@ Go to https://github.com/br-22448/RedeskyNew/tree/Scripts and download the RedeC
 **Fast Installation:**
 
 Type ``.config load https://raw.githubusercontent.com/br-22448/RedeskyNew/Configs/redeskynewv9`` for fast installation. 
+You will need all scripts in your folder.
 # Disclaimer
 - I'm not responsible if you get punished or encounter any issues using this configuration.  
 - Not all these scripts are mine. 
