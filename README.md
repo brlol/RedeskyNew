@@ -3,7 +3,7 @@ Configurations and scripts for custom builds or Liquid Bounce. Fully updated and
 
 .js files are scripts. Other files are configurations. 
 # Current Version: RedeskyNewV9
-RedeskyNewV9 release!
+redeskynewv10 tmr, includes zoom scaffold
 # Changelog
 Updates in V9: 
 - Changed Scaffold from timer to sprint. (Will lagback if you have already flagged)
