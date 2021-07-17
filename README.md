@@ -25,13 +25,21 @@ Put scripts in your scripts folder located inside your Liquid Drip installation.
 
 You will need to go through ``C:\Users\User\Roaming\.minecraft\CustomBuild`` and then there should be a scripts folder and a settings folder. Please put them in the right folders. 
 
-After you have put in the config and scripts, relaunch the game. ``Type .localconfig load redeskynewv9`` and make sure all modules are enabled like this following picture. 
+After you have put in the config and scripts, relaunch the game. ``Type .localconfig load redeskynewv10`` and make sure all modules are enabled like this following picture. 
 
 https://media.discordapp.net/attachments/857676561812553760/865743773064888330/unknown.png (Ignore AutoReport)
 
 Bind LongJump and TimerLongJump to one key for a one time use per round LongJump. Bind RedeFly, RedeFastFly, and Blink to one key for a reusable 15s cooldown LongJump. Keep in mind to disable the second one after 100ms or it will flag. **None of these LongJumps work if you have flagged.** 
 
-Everything else is self explanatory. 
+What to use: 
+- Scaffold
+- TimerLongJump + LongJump
+- RedeFly + RedeFastFly + Blink
+- KillAura
+- InvCleaner + ChestStealer + AutoArmor
+- NoFall
+- Velocity
+- Any visuals
 **Fast Installation:**
 
 Type ``.config load https://raw.githubusercontent.com/br-22448/RedeskyNew/Configs/redeskynewv9`` for fast installation. 
