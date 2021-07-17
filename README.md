@@ -2,14 +2,13 @@
 Configurations and scripts for custom builds or Liquid Bounce. Fully updated and bypassing. 
 
 .js files are scripts. Other files are configurations. 
-# Current Version: RedeskyNewV9
-redeskynewv10 tmr, includes zoom scaffold
+# Current Version: RedeskyNewV10
+Released
 # Changelog
-Updates in V9: 
-- Changed Scaffold from timer to sprint. (Will lagback if you have already flagged)
-- Added NoFall (will flag more than before)
-- Added NameProtect 
-- Optional: NoRotateSet (will break Scaffold occasionally)
+Updates in V10: 
+- Zoom scaffold (you need a speed potion)
+- Better ESP
+- Better Velocity
 
 **Example:** 
 https://www.youtube.com/watch?v=LCZTUI4X_dc
