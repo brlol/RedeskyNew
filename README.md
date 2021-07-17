@@ -1,5 +1,5 @@
 # About
-Configurations and scripts for custom builds or Liquid Bounce. Fully updated and bypassing. 
+Configurations and scripts for Liquid Drip. Fully updated and bypassing. 
 
 .js files are scripts. Other files are configurations. 
 # Current Version: RedeskyNewV10
@@ -42,7 +42,7 @@ What to use:
 - Any visuals
 **Fast Installation:**
 
-Type ``.config load https://raw.githubusercontent.com/br-22448/RedeskyNew/Configs/redeskynewv9`` for fast installation. 
+Type ``.config load https://raw.githubusercontent.com/br-22448/RedeskyNew/Configs/redeskynewv10`` for fast installation. 
 
 You will need all scripts in your folder already.
 # Disclaimer
