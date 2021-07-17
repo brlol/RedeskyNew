@@ -3,7 +3,7 @@ Configurations and scripts for Liquid Drip, Liquid Bounce, and Lint. Fully updat
 
 Not all of the scripts are made by me. Thank you for letting me use the scripts. If you don't want your scripts up here please contact me on 
 
-Discord br#6969. 
+Discord br#6900. 
 
 # Updates
 Added RedeFastFly script, and RedeConfigManager script.
