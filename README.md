@@ -6,4 +6,4 @@ Not all of the scripts are made by me. Thank you for letting me use the scripts.
 Discord br#6900. 
 
 # Updates
-Added RedeFastFly script, and RedeConfigManager script.
+None
