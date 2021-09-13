@@ -3,7 +3,7 @@ Configurations and scripts for Liquid Drip. Fully updated and bypassing.
 
 .js files are scripts. Other files are configurations. 
 # Current Version: RedeskyNewV10
-update soon
+deprecated
 # Changelog
 Updates in V10: 
 - Zoom scaffold (you need a speed potion)
